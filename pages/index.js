@@ -27,7 +27,7 @@ export default function Home() {
       <button 
         onClick={addToCounter}
         >
-        <p>I'm a button! Here's the number of times I've been clicked: <span id="counter">{counter}</span> </p>
+        <p>I am a button! Number of times I have been clicked: <span id="counter">{counter}</span> </p>
       </button>
 
     </main>
